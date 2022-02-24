@@ -45,3 +45,6 @@ sysinfo.txt
 *.unitypackage
 
 .DS_Store
+
+Packages/com.kyrylokuzyk.arfoundationremote
+ARFoundationRemoteCompanionApp/
